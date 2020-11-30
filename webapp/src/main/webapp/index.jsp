@@ -19,7 +19,7 @@ div.ex {
 <!-- 
 	<marquee behavior="scroll" direction="left" scrollamount="10">Ivavsys Current Opening  Automation Test Engineer, Performance Test Engineer, Security Tester</marquee>-->
  
-	<FONT COLOR="#00bbff" SIZE="15"><MARQUEE>Ivavsys Current Opening --> Automation Test Engineer, Performance Test Engineer, Security Tester</MARQUEE></FONT>
+	<FONT COLOR="#00bbff" SIZE="15"><MARQUEE>Verve-Square Current Opening --> Automation Test Engineer, Performance Test Engineer, Security Tester</MARQUEE></FONT>
 
 	<h1>Ivavsys Registration Form</h1>
 	<div class="ex">
